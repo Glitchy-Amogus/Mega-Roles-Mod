@@ -1,29 +1,49 @@
-# Mega Roles Mod
-A mod with some roles that could be added in future Among Us updates. Crewmate AND  Neutral roles will show up as an Engineer while Impostor ones show up as Impostor.
+# 🚀 Mega Roles Mod
 
-<p style="margin-top: 200px;">
-  <img src="Influencer.png" width="200">
-</p>
+A custom mod for **Among Us** that introduces unique, game-changing roles. Crewmate and Neutral roles disguise themselves as Engineers, while Impostors retain their Impostor identity to keep everyone guessing!
 
-Influencer is a crewmate role that can take photos(until set limit) to reveal them in a meeting and potentially catch Neutrals and Impostors. Try to be in group with somebody until you gather enough information for the crew and some Neutrals to them winning with you.
+---
 
-<p style="margin-top: 200px;">
-  <img src="Infector.png" width="200">
-</p>
+## 🎭 Featured Roles
 
-Infector is an impostor role that can poison players to eliminate them with a set delay after a meeting ending. Don't walk back to missed players to poison them, that will be sus.
+### 📸 Influencer
+<img src="Influencer.png" width="250">
 
+* **Faction:** Crewmate
+* **Ability:** Can take photos (up to a set limit) to reveal player locations/actions during meetings.
+* **Tip:** Use this power to expose Neutrals and Impostors. Try to stay grouped with trusted players until you gather enough information to secure a win for the crew.
 
-<p style="margin-top: 200px;">
-  <img src="Evil Ghost.png" width="200">
-</p>
+<br>
 
-Evil ghost is a neutral role that can slow down players by a set multiplier while evil ghost is alive. Curse players to blind and eliminate(after a short delay so blindness is useful) when evil ghost is d*ad. Curse everyone to win alone before crewmates or impostors reach their win requirement.
+### 🧪 Infector
+<img src="Infector.png" width="250">
 
+* **Faction:** Impostor
+* **Ability:** Can poison players, eliminating them with a set delay after a meeting ends.
+* **Tip:** Don't walk back to missed players to poison them immediately — that will look highly suspicious (*sus*)!
 
-<p style="margin-top: 200px;">
-  <img src="Teleporter.png" width="200">
-</p>
+<br>
 
-Teleporter is a neutral role that can teleport to a random room in the map by completing it's tasks. Use your multi-use ability to stay alive until the end to win with either of 2 other fractions that reached win req.
+### 👻 Evil Ghost
+<img src="Evil Ghost.png" width="250">
 
+* **Faction:** Neutral
+* **Ability:** While alive, slows down all players by a set multiplier. When dead, can curse players to blind and eventually eliminate them (after a short delay, making the blindness mechanic useful).
+* **Tip:** Curse everyone to win alone before the Crewmates or Impostors can reach their victory requirements.
+
+<br>
+
+### 🌀 Teleporter
+<img src="Teleporter.png" width="250">
+
+* **Faction:** Neutral
+* **Ability:** Can teleport to a random room on the map upon completing all tasks.
+* **Strategy:** Use your multi-use ability to stay alive until the late game, aiming to win alongside whichever faction reaches its win condition.
+
+---
+
+## 🛠️ Installation & Requirements
+
+1. Download the latest release.
+2. Move the file into your Among Us/BepInEx/plugins directory.
+3. Launch the game via the mod's executable.
