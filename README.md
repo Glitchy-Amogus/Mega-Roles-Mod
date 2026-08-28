@@ -38,7 +38,7 @@ A custom mod for **Among Us** that introduces unique, game-changing roles. Crewm
 
 * **Faction:** Neutral
 * **Ability:** Can teleport to a random room on the map upon completing all tasks.
-* **Strategy:** Use your multi-use ability to stay alive until the late game, aiming to win alongside whichever faction reaches its win condition.
+* **Tip:** Use your multi-use ability to stay alive until the late game, aiming to win alongside whichever faction reaches its win condition.
 
 ---
 
