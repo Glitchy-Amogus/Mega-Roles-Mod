@@ -1,0 +1,8 @@
+// возрождение
+if (customrolemanager.deaddoveid != 255)
+{
+  make GuardianAngelShield 9x at start of the game
+  { 
+   GuardianAngelShield= permanent
+  }
+} 
