@@ -26,6 +26,8 @@ A custom mod for **Among Us** that introduces unique, game-changing roles. Crewm
 
 ### 🕊️ Dead Dove
 <img src="dove.png" width="250">
+
+*  **Faction:** Crewmate
 *  **Ability:** Can withstand up to nine kill attempts.
 *  **Tip:** Use it against roles like Ghost Buster to not let impostors profit off of you.
 
