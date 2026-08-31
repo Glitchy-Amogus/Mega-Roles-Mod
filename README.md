@@ -15,12 +15,45 @@ A custom mod for **Among Us** that introduces unique, game-changing roles. Crewm
 
 <br>
 
+### 😭 Crybaby
+<img src="Crybaby.png" width="250">
+
+* **Faction:** Crewmate
+* **Ability:** Complete a certain amount of tasks to leave a pool of tears that lowers the vision of a player that stepped on tears.
+* **Tip:** Use your pools of tears to not let roles like Ghost Buster get an easy win
+
+<br>
+
+### 🕊️ Dead Dove
+<img src="Dove.png" width="250">
+* **Ability:** Can withstand up to nine kill attempts
+* **Tip:** Use it against roles like Ghost Buster to not let impostors profit off of you
+
+<br>
+
 ### 🧪 Infector
 <img src="Infector.png" width="250">
 
 * **Faction:** Impostor
 * **Ability:** Can poison players, eliminating them with a set delay after a meeting ends.
 * **Tip:** Don't walk back to missed players to poison them immediately — that will look highly suspicious (*sus*)!
+
+<br>
+### 🚫👻 Ghost Buster
+<img src="Ghost Buster.png" width="250">
+
+* **Faction:** Impostor
+* **Ability:** Can take souls from players by killing them, to potentially revive his teammates and even himself.
+* **Tip:** Dont waste collected souls on roles like Viper, save it for more useful teammates to win.
+
+<br>
+
+### 💉 Drug Dealer
+<img src="Drug Dealer.png" width="250">
+
+* **Faction:** Impostor
+* **Ability:** Can give drugs to other players. 1st drug use makes drugged players see different skins from real but 2nd drug kills.
+* **Tip:** Overdose players with roles like Influencer to make the game easier.
 
 <br>
 
