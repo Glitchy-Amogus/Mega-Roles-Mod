@@ -20,14 +20,14 @@ A custom mod for **Among Us** that introduces unique, game-changing roles. Crewm
 
 * **Faction:** Crewmate
 * **Ability:** Complete a certain amount of tasks to leave a pool of tears that lowers the vision of a player that stepped on tears.
-* **Tip:** Use your pools of tears to not let roles like Ghost Buster get an easy win
+* **Tip:** Use your pools of tears to not let roles like Ghost Buster get an easy win.
 
 <br>
 
 ### 🕊️ Dead Dove
 <img src="dove.png" width="250">
-* **Ability:** Can withstand up to nine kill attempts.
-* **Tip:** Use it against roles like Ghost Buster to not let impostors profit off of you
+*  **Ability:** Can withstand up to nine kill attempts.
+*  **Tip:** Use it against roles like Ghost Buster to not let impostors profit off of you.
 
 <br>
 
