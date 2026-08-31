@@ -1,6 +1,8 @@
 # 🚀 Mega Roles Mod
 
-A custom mod for **Among Us** that introduces unique, game-changing roles. Crewmate and Neutral roles disguise themselves as Engineers, while Impostors retain their Impostor identity to keep everyone guessing!
+A custom mod for **Among Us** that introduces unique, game-changing roles. Crewmate and Neutral roles disguise themselves as Engineers, while Impostors retain their Impostor identity to keep original servers!
+
+**There are no releases for now because i took them down to fix some problems. Fixed version will come out as Beta 1.0**
 
 ---
 
